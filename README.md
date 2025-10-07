@@ -45,6 +45,38 @@ Backend: .NET API
 
 AI/ML Models: For probability estimation of SEO compliance & virality prediction
 
+## 🧠 About the AI Model
+
+The core of ViraRank lies in its AI-powered model that analyzes websites and social media posts to provide intelligent insights. It helps users understand their potential to rank in search results and the likelihood of their content going viral.
+
+Model Details:
+
+Dataset: A mix of SEO rules, website data, content attributes, and social media post metrics.
+
+Architecture: Machine learning models trained for probability estimation.
+
+Prediction:
+
+- Analyzes websites to calculate an SEO compliance probability score.
+
+- Examines social media posts to predict the probability of them going viral.
+
+- SEO score with clear visual indicators.
+
+- Virality prediction for a post on a specific platform.
+
+- Smart insights and recommendations based on the analysis.
+
+- Generates a roadmap with recommended resources.
+
+## 📸 Screens
+
+![CVision Demo](./assets/images/cvision_demo.JPG)
+
+## 🎥 Demo Video
+
+[https://drive.google.com/file/d/18pOuxxI1oqSYHEcMC9OyHTKGKyXAYKEu/view?usp=sharing](https://drive.google.com/file/d/18pOuxxI1oqSYHEcMC9OyHTKGKyXAYKEu/view?usp=sharing)
+
 # 🚀 How It Works
 
 🧑‍💻 User signs up or logs in.
@@ -62,3 +94,15 @@ AI/ML Models: For probability estimation of SEO compliance & virality prediction
 📢 Marketers: Test virality chances before launching campaigns.
 
 📝 Content Creators / Bloggers: Understand strengths and weaknesses of their content.
+
+## Clone & Run the Flutter App
+Clone the repository:
+git clone [https://github.com/fatmamamdouh/CVision.git](https://github.com/fatmamamdouh/CVision.git)
+
+cd CVision
+
+Get Flutter packages:
+flutter pub get
+
+Run the app:
+flutter run
