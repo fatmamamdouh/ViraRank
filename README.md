@@ -97,9 +97,9 @@ Prediction:
 
 ## Clone & Run the Flutter App
 Clone the repository:
-git clone [https://github.com/fatmamamdouh/CVision.git](https://github.com/fatmamamdouh/CVision.git)
+git clone [https://github.com/fatmamamdouh/ViraRank.git](https://github.com/fatmamamdouh/ViraRank.git)
 
-cd CVision
+cd ViraRank
 
 Get Flutter packages:
 flutter pub get
