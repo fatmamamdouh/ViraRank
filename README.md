@@ -71,7 +71,7 @@ Prediction:
 
 ## 📸 Screens
 
-![CVision Demo](./assets/images/cvision_demo.JPG)
+![CVision Demo](./assets/images/viraRankScreens.JPG)
 
 ## 🎥 Demo Video
 
