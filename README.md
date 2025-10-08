@@ -75,7 +75,7 @@ Prediction:
 
 ## 🎥 Demo Video
 
-[https://drive.google.com/file/d/18pOuxxI1oqSYHEcMC9OyHTKGKyXAYKEu/view?usp=sharing](https://drive.google.com/file/d/18pOuxxI1oqSYHEcMC9OyHTKGKyXAYKEu/view?usp=sharing)
+[https://drive.google.com/file/d/18pOuxxI1oqSYHEcMC9OyHTKGKyXAYKEu/view?usp=sharing](https://drive.google.com/file/d/1y_YoccGTsTKiiVFpUysNHS6b8oyNa4sF/view?usp=sharing)
 
 # 🚀 How It Works
 
